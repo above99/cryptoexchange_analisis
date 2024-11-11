@@ -5,3 +5,4 @@ numpy==1.26.4
 sastrawi==1.0.1
 pandas==2.2.2
 tensorflow
+scikit-learn
